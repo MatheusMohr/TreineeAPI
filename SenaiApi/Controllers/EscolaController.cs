@@ -30,6 +30,14 @@ namespace SenaiApi.Controllers
             return Ok();
         }
 
+        [HttpPost]
+        [Route("Editar")]
+        public IActionResult Editar([FromBody]ExibirDto escola)
+        {
+            _escolaService.Editar(escola);
+            return Ok();
+        }
+
         [HttpGet("PegarTodos")]
 
         public IActionResult BuscarTodos()
@@ -37,6 +45,13 @@ namespace SenaiApi.Controllers
             var escola = _escolaService.BuscarTodos();
             return Ok(escola);
         }
+
+        [HttpDelete("Remover")]
+
+        public async Task<IActionResult> Remover(long id) {
+            await _escolaService.Remover(id);
+            return Ok();
+        }   
 
     }
 }

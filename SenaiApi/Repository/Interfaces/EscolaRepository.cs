@@ -1,4 +1,5 @@
-﻿using SenaiApi.Context;
+﻿using Microsoft.EntityFrameworkCore;
+using SenaiApi.Context;
 using SenaiApi.Entity;
 using SenaiApi.Servicos.Interfaces;
 
@@ -20,9 +21,19 @@ namespace SenaiApi.Repository.Interfaces
             _context.SaveChanges();
         }
 
+        public Escola ObterPorId(long id)
+        {
+            return _context.Escola.FirstOrDefault(e => e.Id == id);
+        }
         public List<Escola> PegarTodos()
         {
             return _context.Escola.ToList();
         }
+
+        public async Task Remover(long id)
+        {
+            await _context.Escola.Where(c => c.Id == id).ExecuteDeleteAsync();
+        }
+
     }
 }

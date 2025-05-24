@@ -7,3 +7,4 @@ namespace SenaiApi.DTos
         public string Nome { get; set; }
     }
 }
+    

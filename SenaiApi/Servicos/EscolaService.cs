@@ -23,14 +23,21 @@ namespace SenaiApi.Servicos
             var escola = _mapper.Map<Escola>(escolaDto);    
             _escolaRepository.Salvar(escola);
         }
-        public List<EscolaDto> BuscarTodos()
+
+        public void Editar(ExibirDto model)
+        {
+            var escolas = _escolaRepository.ObterPorId(model.Id);
+            _mapper.Map(model, escolas);
+            _escolaRepository.Salvar(escolas);
+        }
+        public List<ExibirDto> BuscarTodos()
         {
             var escolas = _escolaRepository.PegarTodos();
-            return _mapper.Map<List<EscolaDto>>(escolas);
+            return _mapper.Map<List<ExibirDto>>(escolas);
         }
-        public void Remover()
+        public async Task Remover(long id)
         {
-       
+            await _escolaRepository.Remover(id);
         }
     }
 }
