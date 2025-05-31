@@ -7,8 +7,8 @@ namespace SenaiApi.Servicos.Interfaces
     public interface IEscolaService
     {
         void Salvar(EscolaDto escola);
-        List<ExibirDto> BuscarTodos();
+        List<ExibirEscolaDto> BuscarTodos();
         Task Remover(long id);
-        void Editar(ExibirDto model);
+        void Editar(EditarEscolaDto model);
     }
 }

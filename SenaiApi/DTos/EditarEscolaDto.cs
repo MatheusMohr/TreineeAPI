@@ -1,8 +1,9 @@
 ﻿namespace SenaiApi.DTos
 {
-    public class ExibirDto
+    public class EditarEscolaDto
     {
-        public string Nome { get; set; }
         public long Id { get; set; }
+        public string Nome { get; set; }
+
     }
 }

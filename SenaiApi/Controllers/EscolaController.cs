@@ -16,14 +16,7 @@ namespace SenaiApi.Controllers
             _escolaService = escolaservice;
         }
 
-        [HttpGet]
-
-        public IActionResult Index()
-        {
-            return Ok();
-        }
-
-        [HttpPost("Adicionar")]
+        [HttpPost("Adicionar Escola")]
         public IActionResult Adicionar(EscolaDto escola)
         {
             _escolaService.Salvar(escola);
@@ -31,14 +24,14 @@ namespace SenaiApi.Controllers
         }
 
         [HttpPost]
-        [Route("Editar")]
-        public IActionResult Editar([FromBody]ExibirDto escola)
+        [Route("Editar Escola")]
+        public IActionResult Editar([FromBody]EditarEscolaDto escola)
         {
             _escolaService.Editar(escola);
             return Ok();
         }
 
-        [HttpGet("PegarTodos")]
+        [HttpGet("Buscar Escolas")]
 
         public IActionResult BuscarTodos()
         {
@@ -46,7 +39,7 @@ namespace SenaiApi.Controllers
             return Ok(escola);
         }
 
-        [HttpDelete("Remover")]
+        [HttpDelete("Remover Escola")]
 
         public async Task<IActionResult> Remover(long id) {
             await _escolaService.Remover(id);

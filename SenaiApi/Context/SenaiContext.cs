@@ -11,7 +11,6 @@ namespace SenaiApi.Context
         public DbSet<Classe> Classe { get; set; }
         public DbSet<Aluno> Aluno {  get; set; }
 
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseNpgsql("Server=127.0.0.1;port=5432;Database=Senai;User Id=postgres;Password=root;");

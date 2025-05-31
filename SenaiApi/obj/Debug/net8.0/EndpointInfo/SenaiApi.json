@@ -5,7 +5,199 @@
     "version": "1.0"
   },
   "paths": {
-    "/Endereco/Adicionar": {
+    "/Aluno/Adicionar Aluno": {
+      "post": {
+        "tags": [
+          "Aluno"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlunoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlunoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlunoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/Editar Aluno": {
+      "post": {
+        "tags": [
+          "Aluno"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarAlunoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarAlunoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarAlunoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/Buscar Alunos": {
+      "get": {
+        "tags": [
+          "Aluno"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/Remover Aluno": {
+      "delete": {
+        "tags": [
+          "Aluno"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Classes/Adicionar Classe": {
+      "post": {
+        "tags": [
+          "Classes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClasseDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClasseDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClasseDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Classes/Editar Classe": {
+      "post": {
+        "tags": [
+          "Classes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarClasseDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarClasseDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarClasseDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Classes/Buscar Classes": {
+      "get": {
+        "tags": [
+          "Classes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Classes/Remover Classe": {
+      "delete": {
+        "tags": [
+          "Classes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Endereco/Adicionar Endereço": {
       "post": {
         "tags": [
           "Endereco"
@@ -36,7 +228,7 @@
         }
       }
     },
-    "/Endereco/Editar": {
+    "/Endereco/Editar Endereço": {
       "post": {
         "tags": [
           "Endereco"
@@ -45,17 +237,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/ExibirEnderecoDto"
+                "$ref": "#/components/schemas/EditarEnderecoDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/ExibirEnderecoDto"
+                "$ref": "#/components/schemas/EditarEnderecoDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/ExibirEnderecoDto"
+                "$ref": "#/components/schemas/EditarEnderecoDto"
               }
             }
           }
@@ -101,19 +293,7 @@
         }
       }
     },
-    "/Escola": {
-      "get": {
-        "tags": [
-          "Escola"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/Escola/Adicionar": {
+    "/Escola/Adicionar Escola": {
       "post": {
         "tags": [
           "Escola"
@@ -144,7 +324,7 @@
         }
       }
     },
-    "/Escola/Editar": {
+    "/Escola/Editar Escola": {
       "post": {
         "tags": [
           "Escola"
@@ -153,17 +333,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/ExibirDto"
+                "$ref": "#/components/schemas/EditarEscolaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/ExibirDto"
+                "$ref": "#/components/schemas/EditarEscolaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/ExibirDto"
+                "$ref": "#/components/schemas/EditarEscolaDto"
               }
             }
           }
@@ -175,7 +355,7 @@
         }
       }
     },
-    "/Escola/PegarTodos": {
+    "/Escola/Buscar Escolas": {
       "get": {
         "tags": [
           "Escola"
@@ -187,10 +367,106 @@
         }
       }
     },
-    "/Escola/Remover": {
+    "/Escola/Remover Escola": {
       "delete": {
         "tags": [
           "Escola"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Professores/Adicionar Professor": {
+      "post": {
+        "tags": [
+          "Professores"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfessorDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfessorDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfessorDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Professores/Editar Professor": {
+      "post": {
+        "tags": [
+          "Professores"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarProfessorDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarProfessorDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarProfessorDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Professores/Buscar Professor": {
+      "get": {
+        "tags": [
+          "Professores"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Professores/Remover Professor": {
+      "delete": {
+        "tags": [
+          "Professores"
         ],
         "parameters": [
           {
@@ -212,6 +488,168 @@
   },
   "components": {
     "schemas": {
+      "AlunoDto": {
+        "required": [
+          "cpf",
+          "nascimento",
+          "nome"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "maxLength": 60,
+            "minLength": 1,
+            "type": "string"
+          },
+          "nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "cpf": {
+            "maxLength": 14,
+            "minLength": 1,
+            "type": "string"
+          },
+          "classeId": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClasseDto": {
+        "type": "object",
+        "properties": {
+          "serie": {
+            "$ref": "#/components/schemas/SerieEnum"
+          },
+          "escolaId": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "professorId": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EditarAlunoDto": {
+        "required": [
+          "cpf",
+          "nascimento",
+          "nome"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "nome": {
+            "maxLength": 60,
+            "minLength": 1,
+            "type": "string"
+          },
+          "nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "cpf": {
+            "maxLength": 14,
+            "minLength": 1,
+            "type": "string"
+          },
+          "classeId": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EditarClasseDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "serie": {
+            "$ref": "#/components/schemas/SerieEnum"
+          },
+          "professorId": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EditarEnderecoDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "rua": {
+            "maxLength": 80,
+            "type": "string",
+            "nullable": true
+          },
+          "bairro": {
+            "maxLength": 50,
+            "type": "string",
+            "nullable": true
+          },
+          "cidade": {
+            "maxLength": 60,
+            "type": "string",
+            "nullable": true
+          },
+          "estado": {
+            "maxLength": 2,
+            "type": "string",
+            "nullable": true
+          },
+          "numero": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EditarEscolaDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EditarProfessorDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "escolaId": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
       "EnderecoDto": {
         "type": "object",
         "properties": {
@@ -247,59 +685,29 @@
         "additionalProperties": false
       },
       "EscolaDto": {
+        "required": [
+          "nome"
+        ],
         "type": "object",
         "properties": {
           "nome": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "ExibirDto": {
-        "type": "object",
-        "properties": {
-          "nome": {
-            "type": "string",
-            "nullable": true
-          },
-          "id": {
-            "type": "integer",
-            "format": "int64"
-          }
-        },
-        "additionalProperties": false
-      },
-      "ExibirEnderecoDto": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int64"
-          },
-          "rua": {
-            "maxLength": 80,
-            "type": "string",
-            "nullable": true
-          },
-          "bairro": {
-            "maxLength": 50,
-            "type": "string",
-            "nullable": true
-          },
-          "cidade": {
             "maxLength": 60,
-            "type": "string",
-            "nullable": true
-          },
-          "estado": {
-            "maxLength": 2,
-            "type": "string",
-            "nullable": true
-          },
-          "numero": {
-            "type": "integer",
-            "format": "int32"
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProfessorDto": {
+        "required": [
+          "nome"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "maxLength": 60,
+            "minLength": 1,
+            "type": "string"
           },
           "escolaId": {
             "type": "integer",
@@ -307,6 +715,17 @@
           }
         },
         "additionalProperties": false
+      },
+      "SerieEnum": {
+        "enum": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "type": "integer",
+        "format": "int32"
       }
     }
   }

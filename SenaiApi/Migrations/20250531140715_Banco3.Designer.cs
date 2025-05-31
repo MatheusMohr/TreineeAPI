@@ -12,8 +12,8 @@ using SenaiApi.Context;
 namespace SenaiApi.Migrations
 {
     [DbContext(typeof(SenaiContext))]
-    [Migration("20250510142522_Meu Commit Inicial")]
-    partial class MeuCommitInicial
+    [Migration("20250531140715_Banco3")]
+    partial class Banco3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

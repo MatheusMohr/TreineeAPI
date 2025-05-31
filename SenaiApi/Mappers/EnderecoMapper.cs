@@ -10,6 +10,7 @@ namespace SenaiApi.Mappers
         {
             CreateMap<EnderecoDto, Endereco>().ReverseMap();
             CreateMap<ExibirEnderecoDto, Endereco>().ReverseMap();
+            CreateMap<EditarEnderecoDto, Endereco>().ReverseMap();
         }
     }
 }

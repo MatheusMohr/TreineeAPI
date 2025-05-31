@@ -22,7 +22,7 @@ namespace SenaiApi.Servicos
             _enderecoRepository.Salvar(endereco);
         }
 
-        public void Editar(ExibirEnderecoDto model)
+        public void Editar(EditarEnderecoDto model)
         {
             var endereco = _enderecoRepository.ObterPorId(model.Id);
             _mapper.Map(model, endereco);

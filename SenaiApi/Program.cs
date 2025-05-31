@@ -12,8 +12,6 @@ namespace SenaiApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -23,26 +21,22 @@ namespace SenaiApi
             builder.Services.AddScoped<IEscolaRepository, EscolaRepository>();
             builder.Services.AddScoped<IEnderecoService, EnderecoService>();
             builder.Services.AddScoped<IEnderecoRepository, EnderecoRepository>();
-
+            builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
+            builder.Services.AddScoped<IProfessorService, ProfessorService>();
+            builder.Services.AddScoped<IClasseService, ClasseService>();
+            builder.Services.AddScoped<IClasseRepository, ClasseRepository>();
+            builder.Services.AddScoped<IAlunoService, AlunoService>();
+            builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 
             MapperConfiguration mapperConfiguration = new(mapperConfig => { mapperConfig.AddMaps(new[] { "SenaiApi" });  });
             builder.Services.AddSingleton(mapperConfiguration.CreateMapper());
 
-
-
             var app = builder.Build();
             app.UseSwagger();
             app.UseSwaggerUI();
-
-            // Configure the HTTP request pipeline.
-
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
             app.MapControllers();
-
             app.Run();
         }
     }

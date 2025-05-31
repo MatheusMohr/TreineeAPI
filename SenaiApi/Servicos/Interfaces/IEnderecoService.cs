@@ -8,6 +8,6 @@ namespace SenaiApi.Servicos.Interfaces
         void Salvar(EnderecoDto enderecoDto);
         List<ExibirEnderecoDto> BuscarTodos();
         Task Remover(long id);
-        void Editar(ExibirEnderecoDto endereco);
+        void Editar(EditarEnderecoDto endereco);
     }
 }

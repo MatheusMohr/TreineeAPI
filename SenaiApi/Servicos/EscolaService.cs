@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using SenaiApi.Context;
 using SenaiApi.DTos;
 using SenaiApi.Entity;
@@ -24,16 +25,16 @@ namespace SenaiApi.Servicos
             _escolaRepository.Salvar(escola);
         }
 
-        public void Editar(ExibirDto model)
+        public void Editar(EditarEscolaDto model)
         {
             var escolas = _escolaRepository.ObterPorId(model.Id);
             _mapper.Map(model, escolas);
             _escolaRepository.Salvar(escolas);
         }
-        public List<ExibirDto> BuscarTodos()
+        public List<ExibirEscolaDto> BuscarTodos()
         {
             var escolas = _escolaRepository.PegarTodos();
-            return _mapper.Map<List<ExibirDto>>(escolas);
+            return _mapper.Map<List<ExibirEscolaDto>>(escolas);
         }
         public async Task Remover(long id)
         {

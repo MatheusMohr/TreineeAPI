@@ -16,7 +16,7 @@ namespace SenaiApi.Controllers
             _enderecoService = enderecoService;
         }
 
-        [HttpPost("Adicionar")]
+        [HttpPost("Adicionar Endereço")]
 
         public IActionResult Adicionar(EnderecoDto endereco)
         {
@@ -25,8 +25,8 @@ namespace SenaiApi.Controllers
         }
 
         [HttpPost]
-        [Route("Editar")]
-        public IActionResult Editar([FromBody] ExibirEnderecoDto endereco)
+        [Route("Editar Endereço")]
+        public IActionResult Editar([FromBody] EditarEnderecoDto endereco)
         {
             _enderecoService.Editar(endereco);
             return Ok();

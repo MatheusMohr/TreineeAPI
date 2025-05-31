@@ -27,7 +27,12 @@ namespace SenaiApi.Repository.Interfaces
         }
         public List<Escola> PegarTodos()
         {
-            return _context.Escola.ToList();
+            return _context
+                 .Escola
+                .Include(c => c.Classes)
+                .Include(c => c.Endereco)
+                .Include(c => c.Professores)
+                .ToList();
         }
 
         public async Task Remover(long id)
