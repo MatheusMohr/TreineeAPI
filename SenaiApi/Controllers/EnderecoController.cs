@@ -16,7 +16,7 @@ namespace SenaiApi.Controllers
             _enderecoService = enderecoService;
         }
 
-        [HttpPost("Adicionar Endereço")]
+        [HttpPost("Adicionar_Endereço")]
 
         public IActionResult Adicionar(EnderecoDto endereco)
         {
@@ -25,14 +25,14 @@ namespace SenaiApi.Controllers
         }
 
         [HttpPost]
-        [Route("Editar Endereço")]
+        [Route("Editar_Endereço")]
         public IActionResult Editar([FromBody] EditarEnderecoDto endereco)
         {
             _enderecoService.Editar(endereco);
             return Ok();
         }
 
-        [HttpGet("Buscar Endereços")]
+        [HttpGet("Buscar_Endereços")]
 
         public IActionResult BuscarTodos()
         {
@@ -40,7 +40,7 @@ namespace SenaiApi.Controllers
             return Ok(endereco);
         }
 
-        [HttpDelete("Remover Endereços")]
+        [HttpDelete("Remover_Endereços")]
 
         public async Task<IActionResult> Remover(long id)
         {

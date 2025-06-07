@@ -15,7 +15,7 @@ namespace SenaiApi.Controllers
             _professorService = professorService;
         }
 
-        [HttpPost("Adicionar Professor")]
+        [HttpPost("Adicionar_Professor")]
         public IActionResult Adicionar(ProfessorDto professor)
         {
             _professorService.Salvar(professor);
@@ -23,14 +23,14 @@ namespace SenaiApi.Controllers
         }
 
         [HttpPost]
-        [Route("Editar Professor")]
+        [Route("Editar_Professor")]
         public IActionResult Editar([FromBody] EditarProfessorDto professor)
         {
             _professorService.Editar(professor);
             return Ok();
         }
 
-        [HttpGet("Buscar Professor")]
+        [HttpGet("Buscar_Professor")]
 
         public IActionResult BuscarTodos()
         {
@@ -38,7 +38,7 @@ namespace SenaiApi.Controllers
             return Ok(professor);
         }
 
-        [HttpDelete("Remover Professor")]
+        [HttpDelete("Remover_Professor")]
 
         public async Task<IActionResult> Remover(long id)
         {

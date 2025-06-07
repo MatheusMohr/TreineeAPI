@@ -15,7 +15,7 @@ namespace SenaiApi.Controllers
             _classeService = classeService;
         }
 
-        [HttpPost("Adicionar Classe")]
+        [HttpPost("Adicionar_Classe")]
 
         public IActionResult AdicionarClasse(ClasseDto classe)
         {
@@ -24,14 +24,14 @@ namespace SenaiApi.Controllers
         }
 
         [HttpPost]
-        [Route("Editar Classe")]
+        [Route("Editar_Classe")]
         public IActionResult EditarClasse([FromBody] EditarClasseDto classe)
         {
             _classeService.Editar(classe);
             return Ok();
         }
 
-        [HttpGet("Buscar Classes")]
+        [HttpGet("Buscar_Classes")]
 
         public IActionResult BuscarTodos()
         {
@@ -39,7 +39,7 @@ namespace SenaiApi.Controllers
             return Ok(classe);
         }
 
-        [HttpDelete("Remover Classe")]
+        [HttpDelete("Remover_Classe")]
 
         public async Task<IActionResult> Remover(long id)
         {
