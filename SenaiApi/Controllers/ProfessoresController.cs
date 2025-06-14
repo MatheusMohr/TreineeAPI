@@ -43,7 +43,7 @@ namespace SenaiApi.Controllers
         public async Task<IActionResult> Remover(long id)
         {
             await _professorService.Remover(id);
-            return Ok();
+            return Ok();    
         }
 
     }

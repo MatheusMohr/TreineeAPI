@@ -19,9 +19,9 @@ namespace SenaiApi.Servicos
             _escolaRepository = escolaRepository;
         }
 
-        public void Salvar(EscolaDto escolaDto)
+        public void Salvar(EditarEscolaDto model)
         {
-            var escola = _mapper.Map<Escola>(escolaDto);    
+            var escola = _mapper.Map<Escola>(model);    
             _escolaRepository.Salvar(escola);
         }
 
@@ -30,6 +30,11 @@ namespace SenaiApi.Servicos
             var escolas = _escolaRepository.ObterPorId(model.Id);
             _mapper.Map(model, escolas);
             _escolaRepository.Salvar(escolas);
+        }
+
+        public Escola PegarPorId(long id)
+        {
+            return _escolaRepository.ObterPorId(id);
         }
         public List<ExibirEscolaDto> BuscarTodos()
         {

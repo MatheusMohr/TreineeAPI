@@ -23,7 +23,12 @@ namespace SenaiApi.Repository.Interfaces
 
         public Escola ObterPorId(long id)
         {
-            return _context.Escola.FirstOrDefault(e => e.Id == id);
+            return _context
+                .Escola
+                .Include(c => c.Classes)
+                .Include(c => c.Endereco)
+                .Include(c => c.Professores)
+                .FirstOrDefault(e => e.Id == id);
         }
         public List<Escola> PegarTodos()
         {

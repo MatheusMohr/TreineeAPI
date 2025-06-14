@@ -16,19 +16,23 @@ namespace SenaiApi.Controllers
             _escolaService = escolaservice;
         }
 
-        [HttpPost("Adicionar_Escola")]
-        public IActionResult Adicionar(EscolaDto escola)
+
+        [HttpPost]
+        [Route("Salvar")]
+        public IActionResult Salvar([FromBody] EditarEscolaDto escola)
         {
+            if (escola == null)
+                return BadRequest("Escola não pode ser nula");
             _escolaService.Salvar(escola);
             return Ok();
         }
 
-        [HttpPost]
-        [Route("Editar_Escola")]
-        public IActionResult Editar([FromBody]EditarEscolaDto escola)
+        [HttpGet]
+        [Route("Obter_Por_Id")]
+        public IActionResult PegarPorId(long id)
         {
-            _escolaService.Editar(escola);
-            return Ok();
+            var escolas = _escolaService.PegarPorId(id);
+            return Ok(escolas);
         }
 
         [HttpGet("Buscar_Escolas")]
@@ -39,7 +43,8 @@ namespace SenaiApi.Controllers
             return Ok(escola);
         }
 
-        [HttpDelete("Remover_Escola")]
+        [HttpDelete]
+        [Route("Remover_Escola")]
 
         public async Task<IActionResult> Remover(long id) {
             await _escolaService.Remover(id);

@@ -3,6 +3,8 @@ using SenaiApi.Context;
 using SenaiApi.Repository.Interfaces;
 using SenaiApi.Servicos;
 using SenaiApi.Servicos.Interfaces;
+using Newtonsoft.Json;
+
 
 namespace SenaiApi
 {
@@ -12,7 +14,7 @@ namespace SenaiApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers().AddNewtonsoftJson(option => option.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore)   ;
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
