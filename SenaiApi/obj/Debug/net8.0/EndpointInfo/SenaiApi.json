@@ -5,13 +5,18 @@
     "version": "1.0"
   },
   "paths": {
-    "/Aluno/Adicionar Aluno": {
+    "/Aluno/Adicionar_Aluno": {
       "post": {
         "tags": [
           "Aluno"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlunoDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/AlunoDto"
@@ -36,13 +41,18 @@
         }
       }
     },
-    "/Aluno/Editar Aluno": {
+    "/Aluno/Editar_Aluno": {
       "post": {
         "tags": [
           "Aluno"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarAlunoDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/EditarAlunoDto"
@@ -67,7 +77,7 @@
         }
       }
     },
-    "/Aluno/Buscar Alunos": {
+    "/Aluno/Buscar_Alunos": {
       "get": {
         "tags": [
           "Aluno"
@@ -79,7 +89,7 @@
         }
       }
     },
-    "/Aluno/Remover Aluno": {
+    "/Aluno/Remover_Aluno": {
       "delete": {
         "tags": [
           "Aluno"
@@ -101,13 +111,18 @@
         }
       }
     },
-    "/Classes/Adicionar Classe": {
+    "/Classes/Adicionar_Classe": {
       "post": {
         "tags": [
           "Classes"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClasseDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/ClasseDto"
@@ -132,13 +147,18 @@
         }
       }
     },
-    "/Classes/Editar Classe": {
+    "/Classes/Editar_Classe": {
       "post": {
         "tags": [
           "Classes"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarClasseDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/EditarClasseDto"
@@ -163,7 +183,7 @@
         }
       }
     },
-    "/Classes/Buscar Classes": {
+    "/Classes/Buscar_Classes": {
       "get": {
         "tags": [
           "Classes"
@@ -175,7 +195,7 @@
         }
       }
     },
-    "/Classes/Remover Classe": {
+    "/Classes/Remover_Classe": {
       "delete": {
         "tags": [
           "Classes"
@@ -197,13 +217,18 @@
         }
       }
     },
-    "/Endereco/Adicionar Endereço": {
+    "/Endereco/Adicionar_Endereço": {
       "post": {
         "tags": [
           "Endereco"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EnderecoDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/EnderecoDto"
@@ -228,13 +253,18 @@
         }
       }
     },
-    "/Endereco/Editar Endereço": {
+    "/Endereco/Editar_Endereço": {
       "post": {
         "tags": [
           "Endereco"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarEnderecoDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/EditarEnderecoDto"
@@ -259,7 +289,7 @@
         }
       }
     },
-    "/Endereco/Buscar Endereços": {
+    "/Endereco/Buscar_Endereços": {
       "get": {
         "tags": [
           "Endereco"
@@ -271,7 +301,7 @@
         }
       }
     },
-    "/Endereco/Remover Endereços": {
+    "/Endereco/Remover_Endereços": {
       "delete": {
         "tags": [
           "Endereco"
@@ -293,44 +323,18 @@
         }
       }
     },
-    "/Escola/Adicionar Escola": {
+    "/Escola/Salvar": {
       "post": {
         "tags": [
           "Escola"
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "application/json-patch+json": {
               "schema": {
-                "$ref": "#/components/schemas/EscolaDto"
+                "$ref": "#/components/schemas/EditarEscolaDto"
               }
             },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaDto"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/Escola/Editar Escola": {
-      "post": {
-        "tags": [
-          "Escola"
-        ],
-        "requestBody": {
-          "content": {
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/EditarEscolaDto"
@@ -355,7 +359,29 @@
         }
       }
     },
-    "/Escola/Buscar Escolas": {
+    "/Escola/Obter_Por_Id": {
+      "get": {
+        "tags": [
+          "Escola"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Escola/Buscar_Escolas": {
       "get": {
         "tags": [
           "Escola"
@@ -367,7 +393,7 @@
         }
       }
     },
-    "/Escola/Remover Escola": {
+    "/Escola/Remover_Escola": {
       "delete": {
         "tags": [
           "Escola"
@@ -389,13 +415,18 @@
         }
       }
     },
-    "/Professores/Adicionar Professor": {
+    "/Professores/Adicionar_Professor": {
       "post": {
         "tags": [
           "Professores"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfessorDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/ProfessorDto"
@@ -420,13 +451,18 @@
         }
       }
     },
-    "/Professores/Editar Professor": {
+    "/Professores/Editar_Professor": {
       "post": {
         "tags": [
           "Professores"
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditarProfessorDto"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/EditarProfessorDto"
@@ -451,7 +487,7 @@
         }
       }
     },
-    "/Professores/Buscar Professor": {
+    "/Professores/Buscar_Professor": {
       "get": {
         "tags": [
           "Professores"
@@ -463,7 +499,7 @@
         }
       }
     },
-    "/Professores/Remover Professor": {
+    "/Professores/Remover_Professor": {
       "delete": {
         "tags": [
           "Professores"
@@ -614,6 +650,10 @@
           "numero": {
             "type": "integer",
             "format": "int32"
+          },
+          "escolaId": {
+            "type": "integer",
+            "format": "int64"
           }
         },
         "additionalProperties": false
@@ -628,6 +668,9 @@
           "nome": {
             "type": "string",
             "nullable": true
+          },
+          "endereco": {
+            "$ref": "#/components/schemas/EditarEnderecoDto"
           }
         },
         "additionalProperties": false
@@ -680,20 +723,6 @@
           "escolaId": {
             "type": "integer",
             "format": "int64"
-          }
-        },
-        "additionalProperties": false
-      },
-      "EscolaDto": {
-        "required": [
-          "nome"
-        ],
-        "type": "object",
-        "properties": {
-          "nome": {
-            "maxLength": 60,
-            "minLength": 1,
-            "type": "string"
           }
         },
         "additionalProperties": false

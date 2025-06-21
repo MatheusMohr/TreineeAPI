@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editaralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editaralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\migrations\\20250621140015_alterado tipo cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\migrations\\20250621140015_alterado tipo cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibiralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibiralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editarclassedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editarclassedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editarescoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,140 +23,156 @@
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editarenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibirclassedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibirclassedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editarprofessordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editarprofessordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531140715_Banco3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SenaiApi\\Migrations\\20250531140715_Banco3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\professormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\professormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibirprofessordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibirprofessordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\enderecomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\enderecomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibirenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibirenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\alunomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\alunomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editaralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editaralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibirescoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibirescoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\classemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\classemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\classeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\classeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\classecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\classecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\classemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\classemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\enderecomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\enderecomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\alunomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\alunomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\mappers\\professormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\mappers\\professormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\escolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\escolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editarprofessordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editarprofessordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\classecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\classecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iescolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iescolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibiralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibiralunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\editarclassedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\editarclassedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibirescoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibirescoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\exibirenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\exibirenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\entidades\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\entidades\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\dtos\\classedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,14 +183,6 @@
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\context\\senaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\escolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\escolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\classerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\classerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -183,32 +191,12 @@
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iclasseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iescolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iescolarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\iclasserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\iclasserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531124349_BANCO2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SenaiApi\\Migrations\\20250531124349_BANCO2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531122125_Banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SenaiApi\\Migrations\\20250531122125_Banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531121937_Bacno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -221,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\servicos\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\repository\\interfaces\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\repository\\interfaces\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\servicos\\interfaces\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -244,6 +228,18 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus_mohr\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\docs\\package-readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\migrations\\20250531140715_banco3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\migrations\\20250531140715_banco3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\migrations\\20250531124349_banco2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\migrations\\20250531124349_banco2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|c:\\users\\matheus_mohr\\desktop\\atividadeapi\\treineeapi\\senaiapi\\migrations\\20250531122125_banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BFCCF-443B-4EDA-B693-41F456B13F89}|SenaiApi\\SenaiApi.csproj|solutionrelative:senaiapi\\migrations\\20250531122125_banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -253,24 +249,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProfessorMapper.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\ProfessorMapper.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\ProfessorMapper.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\ProfessorMapper.cs",
-              "RelativeToolTip": "SenaiApi\\Mappers\\ProfessorMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:12:41.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "ProfessorService.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\ProfessorService.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\ProfessorService.cs",
@@ -279,206 +262,25 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T11:18:04.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EscolaDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EscolaDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EscolaDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EscolaDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EscolaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:53:54.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExibirClasseDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirClasseDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirClasseDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirClasseDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ExibirClasseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:41:55.502Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EditarAlunoDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarAlunoDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarAlunoDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarAlunoDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EditarAlunoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "20250621140015_Alterado tipo cidade.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250621140015_Alterado tipo cidade.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250621140015_Alterado tipo cidade.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250621140015_Alterado tipo cidade.cs",
+              "RelativeToolTip": "SenaiApi\\Migrations\\20250621140015_Alterado tipo cidade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:56:31.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditarEscolaDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEscolaDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarEscolaDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEscolaDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EditarEscolaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:53:04.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EditarProfessorDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarProfessorDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarProfessorDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarProfessorDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EditarProfessorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T14:01:39.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditarEnderecoDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEnderecoDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarEnderecoDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEnderecoDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EditarEnderecoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:59:28.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditarClasseDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarClasseDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarClasseDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarClasseDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EditarClasseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:20:41.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExibirAlunoDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirAlunoDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirAlunoDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirAlunoDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ExibirAlunoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:32:00.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProfessorService.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
-              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:18:22.037Z",
+              "WhenOpened": "2025-06-21T14:00:16.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20250531140715_Banco3.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531140715_Banco3.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250531140715_Banco3.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531140715_Banco3.cs",
-              "RelativeToolTip": "SenaiApi\\Migrations\\20250531140715_Banco3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T14:07:15.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProfessoresController.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ProfessoresController.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\ProfessoresController.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ProfessoresController.cs",
-              "RelativeToolTip": "SenaiApi\\Controllers\\ProfessoresController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:09:30.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExibirProfessorDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirProfessorDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirProfessorDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirProfessorDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ExibirProfessorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:12:06.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EnderecoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EnderecoMapper.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\EnderecoMapper.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EnderecoMapper.cs",
-              "RelativeToolTip": "SenaiApi\\Mappers\\EnderecoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:26:32.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\AlunoController.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\AlunoController.cs",
-              "RelativeToolTip": "SenaiApi\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:31:12.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProfessorDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ProfessorDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ProfessorDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ProfessorDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ProfessorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:10:21.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "EnderecoService.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\EnderecoService.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\EnderecoService.cs",
@@ -491,59 +293,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IEnderecoService.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
-              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "EscolaController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EscolaController.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\EscolaController.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EscolaController.cs",
+              "RelativeToolTip": "SenaiApi\\Controllers\\EscolaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:29:37.005Z",
+              "WhenOpened": "2025-05-17T12:35:57.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EnderecoController.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EnderecoController.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\EnderecoController.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EnderecoController.cs",
-              "RelativeToolTip": "SenaiApi\\Controllers\\EnderecoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:24:36.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExibirEnderecoDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEnderecoDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirEnderecoDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEnderecoDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ExibirEnderecoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:13:13.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EnderecoDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EnderecoDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EnderecoDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EnderecoDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\EnderecoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:24:15.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "AlunoService.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\AlunoService.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\AlunoService.cs",
@@ -556,111 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IAlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
-              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:37:30.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EscolaService.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\EscolaService.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\EscolaService.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\EscolaService.cs",
-              "RelativeToolTip": "SenaiApi\\Servicos\\EscolaService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:34:39.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IEscolaService.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
-              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:34:27.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ExibirEscolaDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEscolaDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirEscolaDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEscolaDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ExibirEscolaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T11:29:52.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AlunoDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\AlunoDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\AlunoDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\AlunoDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\AlunoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:31:45.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AlunoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\AlunoMapper.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\AlunoMapper.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\AlunoMapper.cs",
-              "RelativeToolTip": "SenaiApi\\Mappers\\AlunoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:33:23.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "EscolaController.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EscolaController.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\EscolaController.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EscolaController.cs",
-              "RelativeToolTip": "SenaiApi\\Controllers\\EscolaController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:35:57.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "EscolaMapper.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EscolaMapper.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\EscolaMapper.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EscolaMapper.cs",
-              "RelativeToolTip": "SenaiApi\\Mappers\\EscolaMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:23:41.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 9,
               "Title": "ClasseService.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\ClasseService.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\ClasseService.cs",
@@ -673,20 +332,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ClasseController.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ClasseController.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\ClasseController.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ClasseController.cs",
-              "RelativeToolTip": "SenaiApi\\Controllers\\ClasseController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIAwwB4AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EscolaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EscolaMapper.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\EscolaMapper.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EscolaMapper.cs",
+              "RelativeToolTip": "SenaiApi\\Mappers\\EscolaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:41:27.344Z",
+              "WhenOpened": "2025-05-17T13:23:41.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 4,
+              "Title": "EditarEnderecoDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEnderecoDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarEnderecoDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEnderecoDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EditarEnderecoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:59:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarEscolaDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEscolaDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarEscolaDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarEscolaDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EditarEscolaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:53:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Endereco.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Endereco.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Endereco.cs",
+              "RelativeToolTip": "SenaiApi\\Entidades\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:28:52.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarAlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarAlunoDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarAlunoDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarAlunoDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EditarAlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:56:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ClasseMapper.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\ClasseMapper.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Mappers\\ClasseMapper.cs",
@@ -699,20 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Classe.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Classe.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Classe.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Classe.cs",
-              "RelativeToolTip": "SenaiApi\\Entidades\\Classe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:41:15.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 11,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\BaseEntity.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Entidades\\BaseEntity.cs",
@@ -725,124 +423,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Program.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Program.cs",
-              "RelativeToolTip": "SenaiApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "EnderecoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EnderecoMapper.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\EnderecoMapper.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\EnderecoMapper.cs",
+              "RelativeToolTip": "SenaiApi\\Mappers\\EnderecoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:15:32.257Z",
+              "WhenOpened": "2025-05-24T13:26:32.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Endereco.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Endereco.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Endereco.cs",
-              "RelativeToolTip": "SenaiApi\\Entidades\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AlunoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\AlunoMapper.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\AlunoMapper.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\AlunoMapper.cs",
+              "RelativeToolTip": "SenaiApi\\Mappers\\AlunoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:28:52.186Z",
+              "WhenOpened": "2025-05-31T12:33:23.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Aluno.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Aluno.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Aluno.cs",
-              "RelativeToolTip": "SenaiApi\\Entidades\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:40:45.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ClasseDto.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ClasseDto.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ClasseDto.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ClasseDto.cs",
-              "RelativeToolTip": "SenaiApi\\DTos\\ClasseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:41:42.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "SenaiContext.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Context\\SenaiContext.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Context\\SenaiContext.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Context\\SenaiContext.cs",
-              "RelativeToolTip": "SenaiApi\\Context\\SenaiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:22:24.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IClasseService.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
-              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:05:48.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "EnderecoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
-              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:23:18.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "EscolaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
-              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswB8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:42:22.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ClasseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
-              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:45:06.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 14,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\BaseRepository.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\BaseRepository.cs",
@@ -855,16 +462,397 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 15,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
+              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\EnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:23:18.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EscolaService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\EscolaService.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\EscolaService.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\EscolaService.cs",
+              "RelativeToolTip": "SenaiApi\\Servicos\\EscolaService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:34:39.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfessorMapper.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\ProfessorMapper.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Mappers\\ProfessorMapper.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Mappers\\ProfessorMapper.cs",
+              "RelativeToolTip": "SenaiApi\\Mappers\\ProfessorMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:12:41.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EscolaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
+              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\EscolaRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA9wC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:42:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditarProfessorDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarProfessorDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarProfessorDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarProfessorDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EditarProfessorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:01:39.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "SenaiApi\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:24:36.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnderecoDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EnderecoDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EnderecoDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EnderecoDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EnderecoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:24:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClasseController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ClasseController.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\ClasseController.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ClasseController.cs",
+              "RelativeToolTip": "SenaiApi\\Controllers\\ClasseController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:41:27.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EscolaDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EscolaDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EscolaDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EscolaDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EscolaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:23:26.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "IEscolaRepository.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEscolaRepository.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IEscolaRepository.cs",
               "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEscolaRepository.cs",
               "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IEscolaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:43:01.465Z",
+              "WhenOpened": "2025-05-17T12:43:01.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEscolaService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
+              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IEscolaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:34:27.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
+              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:14:10.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfessoresController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ProfessoresController.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\ProfessoresController.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\ProfessoresController.cs",
+              "RelativeToolTip": "SenaiApi\\Controllers\\ProfessoresController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:09:30.476Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Program.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Program.cs",
+              "RelativeToolTip": "SenaiApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:15:32.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Escola.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Escola.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Escola.cs",
+              "RelativeToolTip": "SenaiApi\\Entidades\\Escola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:24:54.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "SenaiApi\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:31:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProfessorService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
+              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:18:22.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExibirEscolaDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEscolaDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirEscolaDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEscolaDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\ExibirEscolaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:29:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExibirAlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirAlunoDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirAlunoDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirAlunoDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\ExibirAlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:32:00.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditarClasseDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarClasseDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\EditarClasseDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\EditarClasseDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\EditarClasseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:20:41.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250531140715_Banco3.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531140715_Banco3.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250531140715_Banco3.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531140715_Banco3.cs",
+              "RelativeToolTip": "SenaiApi\\Migrations\\20250531140715_Banco3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:07:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProfessorDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ProfessorDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ProfessorDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ProfessorDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\ProfessorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:10:21.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
+              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IEnderecoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:29:37.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ExibirEnderecoDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEnderecoDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ExibirEnderecoDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ExibirEnderecoDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\ExibirEnderecoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:13:13.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
+              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:37:30.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\AlunoDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\AlunoDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\AlunoDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\AlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:31:45.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Classe.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Classe.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Classe.cs",
+              "RelativeToolTip": "SenaiApi\\Entidades\\Classe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:41:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Aluno.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Entidades\\Aluno.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Entidades\\Aluno.cs",
+              "RelativeToolTip": "SenaiApi\\Entidades\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:40:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClasseDto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ClasseDto.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\DTos\\ClasseDto.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\DTos\\ClasseDto.cs",
+              "RelativeToolTip": "SenaiApi\\DTos\\ClasseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:41:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SenaiContext.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Context\\SenaiContext.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Context\\SenaiContext.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Context\\SenaiContext.cs",
+              "RelativeToolTip": "SenaiApi\\Context\\SenaiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:22:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IClasseService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
+              "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IClasseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:05:48.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClasseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
+              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
+              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
+              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\ClasseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:45:06.685Z"
             },
             {
               "$type": "Document",
@@ -876,25 +864,11 @@
               "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IClasseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:47:04.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T11:47:04.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "AlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\AlunoRepository.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\AlunoRepository.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\AlunoRepository.cs",
-              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\AlunoRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:34:15.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 58,
               "Title": "20250531124349_BANCO2.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531124349_BANCO2.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250531124349_BANCO2.cs",
@@ -902,12 +876,11 @@
               "RelativeToolTip": "SenaiApi\\Migrations\\20250531124349_BANCO2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:43:49.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T12:43:49.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "IAlunoRepository.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IAlunoRepository.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IAlunoRepository.cs",
@@ -915,25 +888,22 @@
               "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IAlunoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:34:56.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T12:34:56.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 49,
               "Title": "20250531121937_Bacno.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531121937_Bacno.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250531121937_Bacno.cs",
               "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531121937_Bacno.cs",
               "RelativeToolTip": "SenaiApi\\Migrations\\20250531121937_Bacno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:19:37.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T12:19:37.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 51,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IBaseRepository.cs",
@@ -941,12 +911,11 @@
               "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IBaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:00:56.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T12:00:56.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 59,
               "Title": "20250531122125_Banco.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531122125_Banco.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250531122125_Banco.cs",
@@ -954,38 +923,22 @@
               "RelativeToolTip": "SenaiApi\\Migrations\\20250531122125_Banco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:21:25.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T12:21:25.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 50,
               "Title": "20250531121810_Banco.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531121810_Banco.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Migrations\\20250531121810_Banco.cs",
               "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Migrations\\20250531121810_Banco.cs",
               "RelativeToolTip": "SenaiApi\\Migrations\\20250531121810_Banco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:18:10.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T12:18:10.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ProfessorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
-              "RelativeDocumentMoniker": "SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
-              "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
-              "RelativeToolTip": "SenaiApi\\Repository\\Interfaces\\ProfessorRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:14:10.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 52,
               "Title": "IEnderecoRepository.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IEnderecoRepository.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IEnderecoRepository.cs",
@@ -993,12 +946,11 @@
               "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IEnderecoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:23:34.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:23:34.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 53,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\appsettings.json",
               "RelativeDocumentMoniker": "SenaiApi\\appsettings.json",
@@ -1006,12 +958,11 @@
               "RelativeToolTip": "SenaiApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T11:22:12.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T11:22:12.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 54,
               "Title": "IProfessorRepository.cs",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Servicos\\Interfaces\\IProfessorRepository.cs",
               "RelativeDocumentMoniker": "SenaiApi\\Servicos\\Interfaces\\IProfessorRepository.cs",
@@ -1019,30 +970,29 @@
               "RelativeToolTip": "SenaiApi\\Servicos\\Interfaces\\IProfessorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:16:21.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T11:16:21.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 55,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SenaiApi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\matheus_mohr\\Desktop\\AtividadeApi\\TreineeAPI\\SenaiApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "SenaiApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwBQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-17T11:22:50.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 56,
               "Title": "package-readme.md",
               "DocumentMoniker": "C:\\Users\\matheus_mohr\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\docs\\package-readme.md",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\docs\\package-readme.md",
               "ToolTip": "C:\\Users\\matheus_mohr\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\docs\\package-readme.md [Somente Leitura]",
               "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\docs\\package-readme.md [Somente Leitura]",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAB4AAAAAQAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAB4AAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-17T11:16:31.388Z",
               "EditorCaption": " [Somente Leitura]"

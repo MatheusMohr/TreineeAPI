@@ -10,6 +10,7 @@ namespace SenaiApi.Mappers
             CreateMap<EscolaDto, Escola>().ReverseMap();
             CreateMap<ExibirEscolaDto, Escola>().ReverseMap();
             CreateMap<EditarEscolaDto, Escola>().ReverseMap();
+            CreateMap<EditarEnderecoDto, Endereco>().ReverseMap();
         }
     }
 }

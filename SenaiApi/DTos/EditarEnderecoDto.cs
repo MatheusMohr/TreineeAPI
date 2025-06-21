@@ -17,5 +17,6 @@ namespace SenaiApi.DTos
         [MaxLength(2)]
         public string Estado { get; set; }
         public int Numero { get; set; }
+        public long EscolaId { get; set; }    
     }
 }
